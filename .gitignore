@@ -35,4 +35,4 @@ build/
 oh_modules/
 *.hms
 .idea/
-*.log
+entry/build/
